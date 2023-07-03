@@ -9,7 +9,8 @@ Docker Eco system -
 	Docker Compose - can manage various dosckers altogether
 
 
-
+Hello Added some more points in docker file
+how does it work
 
 
 9930800000000893
