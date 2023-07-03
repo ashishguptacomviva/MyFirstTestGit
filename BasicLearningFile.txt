@@ -1,0 +1,17 @@
+Container is layer file system, which means it creates / execute the commands, which are written in Docker file
+Docker is ecosystem, which means it needs various things to create container
+
+Docker Eco system - 
+	Docker client - docker file to be written
+	Docker Server / Demon / Docker Engine - convert image to container
+	Docker Hub - Registry, where image can be stored for future use
+	Docker Image - Tempalate
+	Docker Compose - can manage various dosckers altogether
+
+
+
+
+
+9930800000000893
+
+9930990000000013
